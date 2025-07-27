@@ -15,5 +15,8 @@ Example:
 
 Only "letterboxd" is available for ```${type}``` for now.
 
+### Images sizes
+Letterboxd: 350 x 525 px
+
 ### Main Project
 [Movie Covers](https://github.com/st-alves/movie-covers)
